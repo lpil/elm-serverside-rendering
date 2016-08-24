@@ -1,0 +1,19 @@
+{
+  "name": "elm-serverside-rendering",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lpil/elm-serverside-rendering.git"
+  },
+  "author": "",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/lpil/elm-serverside-rendering/issues"
+  },
+  "homepage": "https://github.com/lpil/elm-serverside-rendering#readme",
+  "dependencies": {
+    "elm": "^0.17.1",
+    "jsdom": "^9.4.2"
+  }
+}
